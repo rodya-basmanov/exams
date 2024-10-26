@@ -159,15 +159,24 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Открыть палитру команд": false
     }
   },
   "active": "53f04b2294481e8e",
   "lastOpenFiles": [
     "analysis/README.md",
-    "algebra/README.md",
+    "analysis/Вопрос 3/Вопрос №3.md",
+    "analysis/Вопрос 3/Биекция.png",
+    "analysis/Вопрос 3/Сюръекция.png",
+    "analysis/Вопрос 3/Инъекция.png",
+    "analysis/Вопрос 4/Вопрос №4.md",
+    "analysis/Вопрос 4/GPT answer.png",
+    "analysis/Вопрос 4/Fp.png",
+    "analysis/Вопрос 4/F3.png",
     "analysis/Билет 18. Предельный переход в неравенстве, теорема о сжатой последовательности. Теорема о сжимающихся отрезках..md",
+    "analysis/Вопрос 4",
+    "analysis/Вопрос 3",
+    "algebra/README.md",
     "README.md"
   ]
 }
